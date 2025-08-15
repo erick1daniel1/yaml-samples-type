@@ -5,12 +5,10 @@
   </info>
   <isDev xsi:nil="true"/>
   <ciudad>Arequipa</ciudad>
-  <lenguajes>
-    <lenguaje>Python</lenguaje>
-    <lenguaje>JavaScript</lenguaje>
-    <lenguaje>PHP</lenguaje>
-    <lenguaje>React</lenguaje>
-  </lenguajes>
+  <lenguaje>Python</lenguaje>
+  <lenguaje>JavaScript</lenguaje>
+  <lenguaje>PHP</lenguaje>
+  <lenguaje>React</lenguaje>
   <experiencia>
     <empresa>
       <nombre>Innovuarts</nombre>
@@ -19,11 +17,9 @@
   </experiencia>
   <hasDevOpsKnowledge xsi:nil="true"/>
   <hasCloudKnowledge xsi:nil="true"/>
-  <Hobbies>
-    <Hobby>Música</Hobby>
-    <Hobby>Fotografía</Hobby>
-    <Hobby>videojuegos</Hobby>
-  </Hobbies>
+  <Hobby>Música</Hobby>
+  <Hobby>Fotografía</Hobby>
+  <Hobby>videojuegos</Hobby>
   <Comentario>
     Espero aumentar mis conocimientos para nuevas oportunidades
   </Comentario>
