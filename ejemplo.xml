@@ -3,7 +3,7 @@
     <nombre>Erick</nombre>
     <edad>24</edad>
   </info>
-  <isDev>true</isDev>
+  <isDev xsi:nil="true"/>
   <ciudad>Arequipa</ciudad>
   <lenguajes>
     <lenguaje>Python</lenguaje>
@@ -17,8 +17,8 @@
       <estado>Activo</estado>
     </empresa>
   </experiencia>
-  <hasDevOpsKnowledge>null</hasDevOpsKnowledge>
-  <hasCloudKnowledge>~</hasCloudKnowledge>
+  <hasDevOpsKnowledge xsi:nil="true"/>
+  <hasCloudKnowledge xsi:nil="true"/>
   <Hobbies>
     <Hobby>Música</Hobby>
     <Hobby>Fotografía</Hobby>
