@@ -1,0 +1,75 @@
+nombre: Erick #Linea simple
+
+nombreString: 'EricK' #ENTRE COMILLAS SIMPLES
+
+mensaje: "Hola, soy EricK\nsaludo" #entre comillas doble tiene soporte a caracteres especiales
+
+descripcion: |                  #Se mantiene saltos de linea
+  Esto es una descripcion
+  Tiene una segunda linea y se mantiene
+
+descripcion_lineal: >           # mantiene una unica linea
+  Esto es una descripcion.
+  Tiene una segunda linea
+  y se mantiene
+
+#datos de tipo numerico
+
+edad: 30 # entero
+
+decimal_altura: 1.70 #valor decimal
+
+permisos: 0755 # valor octal (permisos)
+
+color: 0xFFEECC # valor hexadecimal (color)
+
+#valores de tipo booleano
+
+isActive: true # verdadero
+
+isAdmin: false # falso
+
+isEmpty: TRUE # verdadero    booleanos soportan mayusculas
+isValid: FALSE # falso
+
+#expresion corta
+
+isEnable: on
+isDisable: off
+
+#null
+hasData: null
+hasInfo: Null #nullable soporta mayusculas
+hasData3: ~
+
+#arreglos
+#Lista o arreglo en bloque
+colores: 
+  - azul
+  - negro
+  - blanco
+
+#lista en linea
+colores_linea: [azul, negro, blanco]
+
+#listado de objetos
+usuarios:
+  - nombre: "Juan"
+    edad: 30
+    isActive: TRUE
+  - nombre: "Maria"
+    edad: 25
+    isActive: FALSE
+  - nombre: "Pedro"
+    edad: 40
+    isActive: TRUE
+
+#mapeo en bloque
+
+persona: 
+  nombre: "Juan"
+  edad: 30
+  isActive: TRUE
+  ciudad: "Madrid"
+
+persona2: {nombre: "juan", edad: 30, isActive: TRUE, ciudad: "Madrid"}
