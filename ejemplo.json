@@ -1,0 +1,27 @@
+{
+    "Ing": {
+        "info": {
+            "nombre": "Erick",
+            "edad": 24
+        },
+        "isDev": true,
+        "ciudad": "Arequipa",
+        "lenguajes": ["Python", "JavaScript", "PHP", "React"],
+        "experiencia": [
+            {
+                "empresa": {
+                    "nombre": "Innovuarts",
+                    "estado": "Activo"
+                }
+            }
+        ],
+        "hasDevOpsKnowledge": null,
+        "hasCloudKnowledge": "~",
+        "Hobbies": [
+            "Música",
+            "Fotografía",
+            "videojuegos"
+        ],
+        "Comentario": "Espero aumentar mis conocimientos para nuevas oportunidades"
+    }
+}
