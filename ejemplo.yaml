@@ -1,0 +1,19 @@
+# datos personales en un archivo yaml (utlizando todos los tipos de valores existentes)
+
+Ing: 
+  info: {nombre: "Erick", edad: 24}
+  isDev: TRUE
+  ciudad: "Arequipa"
+  lenguajes: [Python, JavaScript, PHP, React]
+  experiencia:
+    - Empresa: "Innovuarts"
+      estado: "Activo"
+  hasDevOpsKnowledge: null
+  hasCloudKnowledge: ~
+  Hobbies: |
+    - Música
+    - Fotografía
+    - videojuegos
+  Comentario: >
+   Espero aumentar mis conocimientos
+   para nuevas oportunidades
